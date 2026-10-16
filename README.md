@@ -1,2 +1,2 @@
 # madrid-metro-route-optimizer
-Python OOP graph-based route simulator for Madrid Metro (object-oriented programming, custom exception handling, dynamic graph structures, transfer cost logic).
+Python OOP graph-based route simulator for Madrid Metro (Object-oriented programming, Custom exception handling, Dynamic graph structures, Transfer cost logic).
